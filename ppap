@@ -25,7 +25,7 @@
 </head>
 <body>
 
-<img id="screamer" src="" alt="Screamer">
+<img id="screamer" src="R.jpg" alt="Screamer">
 
 <audio id="sound" src="freesound_community-screamer-jumpscare-66896.mp3"></audio>
 
